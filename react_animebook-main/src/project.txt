@@ -1,0 +1,16 @@
+- ANIME EPISODES = https://api.jikan.moe/v4/anime/52991/episodes
+- ANIME VIDES = https://api.jikan.moe/v4/anime/52991/videos
+- ANIME PICTURES = https://api.jikan.moe/v4/anime/52991/pictures
+- ANIME RECOMMENDATOION = https://api.jikan.moe/v4/anime/52991/recommendations
+- GET ANIME CHARACTETS BY ANIME ID = https://api.jikan.moe/v4/characters/52991/anime
+- GET CHARACTER DETAILS = https://api.jikan.moe/v4/characters/1365
+- GET CHARACTER PICTURES BY CHARACTER ID = https://api.jikan.moe/v4/characters/1365/pictures
+
+- GET GENRES = https://api.jikan.moe/v4/genres/anime
+
+- GET TOP ANIME = https://api.jikan.moe/v4/top/anime
+- GET TOP ANIME = https://api.jikan.moe/v4/top/anime?filter=upcoming
+- GET TOP ANIME = https://api.jikan.moe/v4/top/anime?filter=favourite
+- GET TOP ANIME = https://api.jikan.moe/v4/top/anime?filter=bypopularity
+
+- GET TOP CHARACTERS = https://api.jikan.moe/v4/top/characters
